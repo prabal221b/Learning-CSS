@@ -180,6 +180,13 @@
     border-radius:14px;
     
 }
+
+.box-img:hover{
+    /* webkit-filter: blur(4px); Chrome, Safari, Opera */
+    /* transition: 1s; */
+    filter: blur(2px);
+    cursor: pointer;
+}
 .text-padding{
     padding:5px;
 }
